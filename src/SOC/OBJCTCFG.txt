@@ -22,3 +22,21 @@ Epic fail!
 
 ^5 -- DEMO --^0
 #
+
+Character
+SkinName = takisthefox
+DisplayName = 
+TagTextColor = SKINCOLOR_BLUE
+TagOutlineColor = SKINCOLOR_ORANGE
+NameTag = SP_CHRTG
+OppositeColor = SKINCOLOR_MINT
+PlayerText = ^5 -- DEMO --^0
+
+Takis is the killer wreck of them all!
+Bursting with speed and power, this fox
+has it all!
+
+THIS DESCRIPTION IS A PLACEHOLDER
+
+^5 -- DEMO --^0
+#
